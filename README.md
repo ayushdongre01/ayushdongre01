@@ -49,27 +49,15 @@
 
 > 🔥 Track my daily problem-solving progress live on [LeetCode](https://leetcode.com/u/Ayush_Dongre_25/)
 
-# 🟢 GeeksforGeeks Stats:
+# 🎯 Practice Profiles:
 
 <div align="center">
 
-<a href="https://www.geeksforgeeks.org/profile/ayushdolkni">
-  <img src="./gfg-stats.svg" alt="Ayush's GeeksforGeeks stats" width="700" />
-</a>
+[![LeetCode](https://img.shields.io/badge/LeetCode-View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ayush_Dongre_25/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-View_Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/ayushdolkni)
+[![CodeChef](https://img.shields.io/badge/CodeChef-View_Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ayush_dongre)
 
 </div>
-
-> 🌱 Also solving on [GeeksforGeeks](https://www.geeksforgeeks.org/profile/ayushdolkni)
-
-# 🍥 CodeChef:
-
-<div align="center">
-
-[![CodeChef](https://cp-logo.vercel.app/codechef/ayush_dongre?logo=true)](https://www.codechef.com/users/ayush_dongre)
-
-</div>
-
-> ⚡ Also competing on [CodeChef](https://www.codechef.com/users/ayush_dongre)
 
 ---
 <div align="center">
